@@ -1,0 +1,6 @@
+{
+  "name": "ScanPro Toolkit",
+  "description": "All-in-one QR code and barcode scanner, generator, batch processor, and history toolkit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
